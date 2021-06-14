@@ -18,9 +18,6 @@ class LoginPage extends StatelessWidget {
               fontWeight: FontWeight.bold,
             ),
           ),
-          SizedBox(
-            height: 20.0,
-          ),
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 40),
             child: Column(
